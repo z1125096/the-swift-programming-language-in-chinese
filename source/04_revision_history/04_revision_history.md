@@ -268,3 +268,4 @@
 * 更新 [结构体逐一成员构造器](../02_language_guide/14_Initialization.md#memberwise-initializers-for-structure-types) 章节，即使结构体的成员 `没有默认值`，逐一成员构造器也可以自动获得。
 * [半开区间运算符](../02_language_guide/BasicOperators.md#half-open-range-operator) 中`..` 更新为 `..<`。
 * 新增 [泛型拓展](../02_language_guide/22_Generics.md#extending-a-generic-type) 的示例。
+
